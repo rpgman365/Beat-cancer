@@ -1,0 +1,27 @@
+body {
+    background-color:red;
+    background-image:linear-gradient(235deg,orange, blue);
+}
+#container {
+    background-color: whitesmoke;
+min-height: 300px;
+padding: 20px;
+border-width: 10px;
+border-style: inset; 
+border-color: #777777;
+margin: 20px auto;
+width: 80%
+}
+
+h1  {
+    Color: limegreen;
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+font-family: 'Luckiest Guy', cursive;
+}
+
+
+
+
+
+
